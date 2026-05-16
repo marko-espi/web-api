@@ -1,2 +1,4 @@
 .vscode/
 GEMINI.md
+# Added by goreleaser init:
+dist/
